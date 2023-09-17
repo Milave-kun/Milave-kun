@@ -5,8 +5,6 @@
 
 - I’m currently learning **Web Development, C#, PHP, C and C++ and SQL**
 
-- How to reach me **johndavebullos@gmail.com**
-
 - Fun fact **Cute ni meelks**
 
 <h3 align="left">Socials:</h3>
