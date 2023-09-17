@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm John Dave</h1>
 <h3 align="center">IT Student</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+gif+cat+landscape+&tbm=isch&ved=2ahUKEwi58ciA5LKBAxWVpekKHU7NCosQ2-cCegQIABAD&oq=animated+gif+cat+landscape+&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIFCAAQogQyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOgQIIRAKUABYnwxg6A5oAHAAeAGAAbAIiAGsEZIBCTItMi4yLjctMZgBAKABAcABAQ&sclient=mobile-gws-wiz-img&ei=YokHZbm4GpXLpgfOmqvYCA&client=ms-android-oppo-rvo2#imgrc=mSDa0U2ezrfB2M&imgdii=eIhea1Nhifz9fM">
+![image](https://github.com/Milave-kun/Milave-kun/assets/125982535/fbc43ce9-5390-479a-8a52-4800769a6863)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
 
