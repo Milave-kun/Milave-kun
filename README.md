@@ -1,3 +1,4 @@
+![image](https://github.com/Milave-kun/Milave-kun/assets/125982535/4aacc7b2-97df-4990-860a-c042b5923e0b)
 <h1 align="center">Hi, I'm John Dave</h1>
 <h3 align="center">IT Student</h3>
 <img align="right" alt="coding" width="400" src="tumblr_osll6t0b3M1vjxr92o1_1280.gif">
