@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **johndavebullos@gmail.com**
 
-- ⚡ Fun fact **Cute in @mfulo**
+- ⚡ Fun fact **Cute ni meelks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
