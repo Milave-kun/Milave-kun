@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm John Dave Bullos</h1>
-<h3 align="center">Front-End Developer</h3>
+<h1 align="center">Hi, I'm John Dave Bullos</h1>
+<h3 align="center">IT Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
 
-- 🌱 I’m currently learning **Web Development, C#, PHP, C and C++ and SQL**
+- I’m currently learning **Web Development, C#, PHP, C and C++ and SQL**
 
-- 📫 How to reach me **johndavebullos@gmail.com**
+- How to reach me **johndavebullos@gmail.com**
 
-- ⚡ Fun fact **Cute in @mfulo**
+- Fun fact **Cute ni meelks**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/milave_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milave_kun" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/katastrophy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katastrophy" height="30" width="40" /></a>
