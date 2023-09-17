@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
 
-- I’m currently learning **Web Development, C#, PHP, SQL C and C++**
+- I’m currently learning **Web Development, C#, PHP, SQL, C and C++**
 
 - Fun fact **Cute ni meelks**
 
