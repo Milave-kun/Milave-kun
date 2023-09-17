@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John Dave Bullos</h1>
+<h1 align="center">Hi, I'm John Dave</h1>
 <h3 align="center">IT Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
