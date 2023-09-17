@@ -7,6 +7,8 @@
 
 - Fun fact **Cute ni meelks**
 
+<br>
+
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/milave_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milave_kun" height="30" width="40" /></a>
