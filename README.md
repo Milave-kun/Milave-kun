@@ -19,6 +19,7 @@
 <h3 align="left">Certification:</h3>
 <p align="left">
   Simplilearn:
+  <br>
   <a href="https://simpli-web.app.link/e/1UU2Ne429Cb">
     Business Analytics with Excel</a>
 </p>
