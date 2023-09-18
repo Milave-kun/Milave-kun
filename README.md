@@ -1,4 +1,4 @@
-<img alt="coding" width="400" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
+<img alt="coding" width="1000" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
 <br>
 
 <h1 align="center">Hi, I'm John Dave</h1>
