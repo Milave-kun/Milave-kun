@@ -1,8 +1,7 @@
-![image](https://github.com/Milave-kun/Milave-kun/assets/125982535/0ee31b02-2455-4cc4-8ff5-a6519b601f6e)
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
 
 <h1 align="center">Hi, I'm John Dave</h1>
 <h3 align="center">IT Student</h3>
-<img align="right" alt="coding" width="400" src="tumblr_osll6t0b3M1vjxr92o1_1280.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
