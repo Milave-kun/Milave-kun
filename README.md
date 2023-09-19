@@ -1,4 +1,4 @@
-<img alt="coding" width="1000" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
+<img alt="coding" width="750" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
 <h1 align="center">Hi, I'm John Dave</h1>
 <h3 align="center">IT Student</h3>
 
@@ -31,6 +31,12 @@
   Simplilearn:
   <br>
   <a href="https://simpli-web.app.link/e/1UU2Ne429Cb">
+    Business Analytics with Excel</a>
+</p>
+<br>
+  Cognitive Class:
+  <br>
+  <a href="https://courses.cognitiveclass.ai/certificates/aeeb4b41779d4b9e9dad450927a58cd9">
     Business Analytics with Excel</a>
 </p>
 
