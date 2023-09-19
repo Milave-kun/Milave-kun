@@ -36,7 +36,7 @@
   Cognitive Class:
   <br>
   <a href="https://courses.cognitiveclass.ai/certificates/aeeb4b41779d4b9e9dad450927a58cd9">
-    SQL and Relational Databases 101</a>
+    Data Privacy Fundamentals</a>
 </p>
 
 
