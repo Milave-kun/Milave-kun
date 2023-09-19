@@ -35,7 +35,7 @@
 </p>
   Cognitive Class:
   <br>
-  <a href="https://courses.cognitiveclass.ai/certificates/aeeb4b41779d4b9e9dad450927a58cd9">
+  <a href="https://courses.cognitiveclass.ai/certificates/8f1db6a5be7245568c39e6f210d6ae2c">
     Data Privacy Fundamentals</a>
 </p>
 
