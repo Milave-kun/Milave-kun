@@ -38,8 +38,7 @@
   <a href="https://courses.cognitiveclass.ai/certificates/8f1db6a5be7245568c39e6f210d6ae2c">
     Data Privacy Fundamentals</a>
 </p>
-  Cognitive Class:
-  <br>
+<br>
   <a href="https://courses.cognitiveclass.ai/certificates/e4227486a3104927ac2f322e86489ac4">
     Getting Started with Node.js</a>
 </p>
