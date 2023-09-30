@@ -12,7 +12,7 @@
 - I’m currently learning Web Development, Java, JS, VB.Net C#, PHP, SQL, C and C++
 - Fun fact Cute ni meelks
 
-### 🏆 Certifications
+### 🏆 Certifications:
 <p align="left">
   Simplilearn:
   <br>
@@ -56,7 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milave-kun&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
