@@ -15,7 +15,8 @@
 
 ### 🌐 Socials:
 <p align="left">
-<a href="https://www.facebook.com/milavekun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="25" width="25" /></a>
+<a href="https://fb.com/milave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <a href="https://instagram.com/milave_kun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="25" width="25" /></a>
 
