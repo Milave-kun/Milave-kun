@@ -1,4 +1,5 @@
-<img alt="coding" width="100%" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
+<a href="https://www.github.com/Milave-kunn"><img alt="coding" width="100%" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif"></a>
+
 <h1 align="center">Hi, I'm John Dave</h1>
 <h3 align="center">IT Student</h3>
 
