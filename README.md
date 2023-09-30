@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm John Dave</h1>
 <h3 align="center">IT Student</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Milave-kun&icon=7&color=10)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
 
 <img width="75" src="https://gifdb.com/images/high/magazine-reading-cartoon-cat-7j88oyjtxsllbkx6.gif">
@@ -15,7 +14,12 @@
 <br>
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/milavekun) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/me.me/milavekun) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milave_kun) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Milave-kun) 
+<p align="left">
+<a href="https://fb.com/https://web.facebook.com/milavekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/milavekun" height="30" width="40" /></a>
+<a href="https://instagram.com/milave_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milave_kun" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/milave-kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="milave-kun" height="30" width="40" /></a>
+<a href="https://discord.gg/milavekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="milavekun" height="30" width="40" /></a>
+</p>
 
 <br>
 
