@@ -15,7 +15,7 @@
 
 ### 🌐 Socials:
 <p align="left">
-<a href="https://www.facebook.com/milavekun" target="blank"><img width="75px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/milavekun" height="30" width="40" />John Dave Bullos</a>
+<a href="https://www.facebook.com/milavekun" target="blank"><img width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/milavekun" height="30" width="40" />John Dave Bullos</a>
 <br>
 <a href="https://instagram.com/milave_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milave_kun" height="30" width="40" />milave_kun</a>
 <br>
