@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://www.facebook.com/milavekun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="25" width="25" /></a>
 
-<a href="https://instagram.com/milave_kun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milave_kun" height="25" width="25" /></a>
+<a href="https://instagram.com/milave_kun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="25" width="25" /></a>
 
-<a href="https://www.youtube.com/@milave-kun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="milave-kun" height="30" width="25" /></a>
+<a href="https://www.youtube.com/@milave-kun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="25" /></a>
 
 <br>
 
