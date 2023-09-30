@@ -15,7 +15,7 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://fb.com/https://web.facebook.com/milavekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/milavekun" height="30" width="40" /></a>
+<a href="[https://fb.com/https://web.facebook.com/milavekun](https://web.facebook.com/milavekun)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/milavekun" height="30" width="40" /></a>
 <a href="https://instagram.com/milave_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milave_kun" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/milave-kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="milave-kun" height="30" width="40" /></a>
 <a href="https://discord.gg/milavekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="milavekun" height="30" width="40" /></a>
