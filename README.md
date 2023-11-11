@@ -19,7 +19,7 @@
   <a href="https://simpli-web.app.link/e/1UU2Ne429Cb">
     Business Analytics with Excel</a>
 
-
+  
   Cognitive Class:
   <br>
   <a href="https://courses.cognitiveclass.ai/certificates/8f1db6a5be7245568c39e6f210d6ae2c">
@@ -30,13 +30,19 @@
 <br>
   <a href="https://courses.cognitiveclass.ai/certificates/aeeb4b41779d4b9e9dad450927a58cd9">
     SQL and Relational Databases 101</a>
-</p>
+    
 
   Coursera:
   <br>
   <a href="https://coursera.org/verify/5DXYB7H42M9T">
     Designing a Low Fidelity Prototype in Figma</a>
-</p>
+
+
+  Datacamp:
+  <br>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/644c8fbb52c0a1ce2e443419485cae92fa079a15">
+    Introduction to Python
+  </p>
 
 ### 🌐 Socials:
 <p align="left">
