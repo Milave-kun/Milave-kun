@@ -42,6 +42,9 @@
   <br>
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/644c8fbb52c0a1ce2e443419485cae92fa079a15">
     Introduction to Python
+  <br>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1b225362a40c331347d8f541c7074269ed3f0f74">
+    Introduction to SQL Server
   </p>
 
 ### 🌐 Socials:
