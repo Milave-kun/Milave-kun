@@ -64,6 +64,9 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milave-kun&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66582f65b998f3b3c7e1f04f?variant=dark" alt="roadmap.sh"/></a>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66582f65b998f3b3c7e1f04f?variant=dark)](https://roadmap.sh)
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
