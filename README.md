@@ -66,8 +66,8 @@
 
 
 ### 🎯 RoadCard:
-[![roadmap.sh](https://roadmap.sh/card/wide/66582f65b998f3b3c7e1f04f?variant=dark)](https://roadmap.sh)
-
+[[![roadmap.sh](https://roadmap.sh/card/wide/66582f65b998f3b3c7e1f04f?variant=dark)](https://roadmap.sh)
+](https://roadmap.sh/card/tall/66582f65b998f3b3c7e1f04f?variant=dark)
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
