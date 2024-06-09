@@ -49,7 +49,6 @@
 
 ### 🌐 Socials:
 <p align="left">
-<a href="https://www.facebook.com/milavekun?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 
 <a href="https://instagram.com/milave_kun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 
