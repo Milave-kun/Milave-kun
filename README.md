@@ -20,7 +20,7 @@
 <p align="left">
   Cisco:
   <br>
-  <a href="https://www.credly.com/badges/c5da3b5b-1158-4acc-bf73-5f064dc17381/public_url">
+  <a href=" https://www.credly.com/badges/c5da3b5b-1158-4acc-bf73-5f064dc17381/public_url">
     Computer Hardware Basics</a>
 
 
@@ -29,7 +29,7 @@
   <a href="https://simpli-web.app.link/e/1UU2Ne429Cb">
     Business Analytics with Excel</a>
 
-  
+
   Cognitive Class:
   <br>
   <a href="https://courses.cognitiveclass.ai/certificates/8f1db6a5be7245568c39e6f210d6ae2c">
