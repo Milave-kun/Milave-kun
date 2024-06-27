@@ -17,6 +17,8 @@
     My Portfolio</a>
 
 ### 🏆 Certifications:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5da3b5b-1158-4acc-bf73-5f064dc17381" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p align="left">
   Simplilearn:
   <br>
