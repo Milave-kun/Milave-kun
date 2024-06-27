@@ -17,9 +17,13 @@
     My Portfolio</a>
 
 ### 🏆 Certifications:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5da3b5b-1158-4acc-bf73-5f064dc17381" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <p align="left">
+  Cisco:
+  <br>
+  <a href="[https://simpli-web.app.link/e/1UU2Ne429Cb](https://www.credly.com/badges/c5da3b5b-1158-4acc-bf73-5f064dc17381/public_url)">
+    Computer Hardware Basics</a>
+
+
   Simplilearn:
   <br>
   <a href="https://simpli-web.app.link/e/1UU2Ne429Cb">
