@@ -20,7 +20,7 @@
 <p align="left">
   Cisco:
   <br>
-  <a href=" https://www.credly.com/badges/c5da3b5b-1158-4acc-bf73-5f064dc17381/public_url">
+  <a href="https://www.credly.com/badges/c5da3b5b-1158-4acc-bf73-5f064dc17381/public_url">
     Computer Hardware Basics</a>
 
 
