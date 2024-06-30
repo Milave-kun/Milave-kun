@@ -10,7 +10,8 @@
 
 ### 💫 About Me:
 - I’m currently learning Web Development, Java, JS, VB.Net C#, PHP, SQL, C and C++
-- Fun fact Cute ni meelks
+- Fun fact: my first line of code wasn't "Hello world!"
+- Cute ni meelks
 
 ### 🗂️ My Portfolio:
 <a href="https://milave-kun.netlify.app/">
