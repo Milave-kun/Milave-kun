@@ -18,8 +18,8 @@
     My Portfolio</a>
 
 ### 🏆 Certifications:
-| **Certification Provider** | Certification Name                           |
-|:--------------------------:|---------------------------------------------|
+| **Certification Provider** |               Certification Name             |
+|:--------------------------:|----------------------------------------------|
 | **Cisco**                  | Computer Hardware Basics                     |
 | **Simplilearn**            | Business Analytics with Excel                |
 | **Cognitive Class**        | Data Privacy Fundamentals                    |
