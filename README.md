@@ -18,45 +18,16 @@
     My Portfolio</a>
 
 ### 🏆 Certifications:
-<p align="left">
-  Cisco:
-  <br>
-  <a href="https://www.credly.com/badges/c5da3b5b-1158-4acc-bf73-5f064dc17381/public_url">
-    Computer Hardware Basics</a>
-
-
-  Simplilearn:
-  <br>
-  <a href="https://simpli-web.app.link/e/1UU2Ne429Cb">
-    Business Analytics with Excel</a>
-
-
-  Cognitive Class:
-  <br>
-  <a href="https://courses.cognitiveclass.ai/certificates/8f1db6a5be7245568c39e6f210d6ae2c">
-    Data Privacy Fundamentals</a>
-<br>
-  <a href="https://courses.cognitiveclass.ai/certificates/e4227486a3104927ac2f322e86489ac4">
-    Getting Started with Node.js</a>
-<br>
-  <a href="https://courses.cognitiveclass.ai/certificates/aeeb4b41779d4b9e9dad450927a58cd9">
-    SQL and Relational Databases 101</a>
-    
-
-  Coursera:
-  <br>
-  <a href="https://coursera.org/verify/5DXYB7H42M9T">
-    Designing a Low Fidelity Prototype in Figma</a>
-
-
-  Datacamp:
-  <br>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/644c8fbb52c0a1ce2e443419485cae92fa079a15">
-    Introduction to Python
-  <br>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1b225362a40c331347d8f541c7074269ed3f0f74">
-    Introduction to SQL Server
-  </p>
+| **Certification Provider** | **Certification Name**                         |
+|----------------------------|------------------------------------------------|
+| **Cisco**                  | **Computer Hardware Basics**                   |
+| **Simplilearn**            | **Business Analytics with Excel**              |
+| **Cognitive Class**        | **Data Privacy Fundamentals**                  |
+| **Cognitive Class**        | **Getting Started with Node.js**               |
+| **Cognitive Class**        | **SQL and Relational Databases 101**           |
+| **Coursera**               | **Designing a Low Fidelity Prototype in Figma**|
+| **Datacamp**               | **Introduction to Python**                     |
+| **Datacamp**               | **Introduction to SQL Server**                 |
 
 ### 🌐 Socials:
 <p align="left">
