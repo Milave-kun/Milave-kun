@@ -18,16 +18,16 @@
     My Portfolio</a>
 
 ### 🏆 Certifications:
-| **Certification Provider** |               Certification Name             |
-|:--------------------------:|----------------------------------------------|
+| **Certification Provider** | Certification Name                           |
+|:--------------------------:|---------------------------------------------|
 | **Cisco**                  | Computer Hardware Basics                     |
-| **Simplilearn**            | Business Analytics with Excel                |
-| **Cognitive Class**        | Data Privacy Fundamentals                    |
-| **Cognitive Class**        | Getting Started with Node.js                 |
-| **Cognitive Class**        | SQL and Relational Databases 101             |
-| **Coursera**               | Designing a Low Fidelity Prototype in Figma  |
-| **Datacamp**               | Introduction to Python                       |
-| **Datacamp**               | Introduction to SQL Server                   |
+| **Simplilearn**            | [Business Analytics with Excel](https://simpli-web.app.link/e/1UU2Ne429Cb) |
+| **Cognitive Class**        | [Data Privacy Fundamentals](https://courses.cognitiveclass.ai/certificates/8f1db6a5be7245568c39e6f210d6ae2c) |
+| **Cognitive Class**        | [Getting Started with Node.js](https://courses.cognitiveclass.ai/certificates/e4227486a3104927ac2f322e86489ac4) |
+| **Cognitive Class**        | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/aeeb4b41779d4b9e9dad450927a58cd9) |
+| **Coursera**               | [Designing a Low Fidelity Prototype in Figma](https://coursera.org/verify/5DXYB7H42M9T) |
+| **Datacamp**               | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/644c8fbb52c0a1ce2e443419485cae92fa079a15) |
+| **Datacamp**               | [Introduction to SQL Server](https://www.datacamp.com/completed/statement-of-accomplishment/course/1b225362a40c331347d8f541c7074269ed3f0f74) |
 
 ### 🌐 Socials:
 <p align="left">
