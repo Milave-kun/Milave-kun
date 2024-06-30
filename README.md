@@ -26,8 +26,6 @@
 | **Coursera**               | [Designing a Low Fidelity Prototype in Figma](https://coursera.org/verify/5DXYB7H42M9T) |
 | **Datacamp**               | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/644c8fbb52c0a1ce2e443419485cae92fa079a15),<br>[Introduction to SQL Server](https://www.datacamp.com/completed/statement-of-accomplishment/course/1b225362a40c331347d8f541c7074269ed3f0f74) |
 
-
-
 ### 🌐 Socials:
 <p align="left">
 
