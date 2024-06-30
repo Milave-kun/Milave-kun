@@ -18,16 +18,16 @@
     My Portfolio</a>
 
 ### 🏆 Certifications:
-| **Certification Provider** | **Certification Name**                         |
-|:--------------------------:|------------------------------------------------|
-| **Cisco**                  | **Computer Hardware Basics**                   |
-| **Simplilearn**            | **Business Analytics with Excel**              |
-| **Cognitive Class**        | **Data Privacy Fundamentals**                  |
-| **Cognitive Class**        | **Getting Started with Node.js**               |
-| **Cognitive Class**        | **SQL and Relational Databases 101**           |
-| **Coursera**               | **Designing a Low Fidelity Prototype in Figma**|
-| **Datacamp**               | **Introduction to Python**                     |
-| **Datacamp**               | **Introduction to SQL Server**                 |
+| **Certification Provider** | Certification Name                           |
+|:--------------------------:|---------------------------------------------|
+| **Cisco**                  | Computer Hardware Basics                     |
+| **Simplilearn**            | Business Analytics with Excel                |
+| **Cognitive Class**        | Data Privacy Fundamentals                    |
+| **Cognitive Class**        | Getting Started with Node.js                 |
+| **Cognitive Class**        | SQL and Relational Databases 101             |
+| **Coursera**               | Designing a Low Fidelity Prototype in Figma  |
+| **Datacamp**               | Introduction to Python                       |
+| **Datacamp**               | Introduction to SQL Server                   |
 
 ### 🌐 Socials:
 <p align="left">
