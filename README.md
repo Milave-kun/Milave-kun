@@ -25,7 +25,7 @@
 | **Cognitive Class**        | [Data Privacy Fundamentals](https://courses.cognitiveclass.ai/certificates/8f1db6a5be7245568c39e6f210d6ae2c),<br>[Getting Started with Node.js](https://courses.cognitiveclass.ai/certificates/e4227486a3104927ac2f322e86489ac4),<br>[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/aeeb4b41779d4b9e9dad450927a58cd9) |
 | **Coursera**               | [Designing a Low Fidelity Prototype in Figma](https://coursera.org/verify/5DXYB7H42M9T) |
 | **Datacamp**               | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/644c8fbb52c0a1ce2e443419485cae92fa079a15),<br>[Introduction to SQL Server](https://www.datacamp.com/completed/statement-of-accomplishment/course/1b225362a40c331347d8f541c7074269ed3f0f74) |
-| **freeCodeCamp**           |   [Responsive Web Design](https://freecodecamp.org/certification/fcc19fb8c52-ebe5-4b83-99fd-a979bec99a9e/responsive-web-design), <br>[JavaScript Algorithms and Data Structures(Beta)](https://freecodecamp.org/certification/fcc19fb8c52-ebe5-4b83-99fd-a979bec99a9e/javascript-algorithms-and-data-structures-v8) |
+| **freeCodeCamp**           |   [Responsive Web Design](https://freecodecamp.org/certification/fcc19fb8c52-ebe5-4b83-99fd-a979bec99a9e/responsive-web-design), <br>[JavaScript Algorithms and Data Structures (Beta)](https://freecodecamp.org/certification/fcc19fb8c52-ebe5-4b83-99fd-a979bec99a9e/javascript-algorithms-and-data-structures-v8) |
 
 ### 🌐 Socials:
 <p align="left">
