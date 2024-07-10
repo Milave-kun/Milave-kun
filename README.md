@@ -1,4 +1,4 @@
-<a href="https://www.github.com/Milave-kun"><img alt="coding" width="100%" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif"></a>
+![milave-kun](https://github.com/Milave-kun/Milave-kun/assets/125982535/71563a26-80e7-42b2-98ca-33397ac521cb)
 
 **<h1 align="center">Hi!, I'm Dave</h1>**
 
