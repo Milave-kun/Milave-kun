@@ -18,7 +18,7 @@
 <a href="https://milave-kun.netlify.app/">
     My Portfolio</a>
 
-<img align="right" alt="akali" width="300" top="100" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
+<img align="right" alt="akali" width="300" top="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
 ### 🏆 Certifications:
 | **Certification Provider** | Certification Name                           |
