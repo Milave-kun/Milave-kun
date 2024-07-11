@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://discord.gg/gGwM9Uq9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/@milave-kun"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href=""https://instagram.com/milave_kun"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/milave_kun"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/Milave-kun?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Milave-kun?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/Milave-kun"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Milave-kun?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
