@@ -7,7 +7,7 @@
 
 <img width="75" src="https://gifdb.com/images/high/magazine-reading-cartoon-cat-7j88oyjtxsllbkx6.gif">
 
-<img align="right" alt="akali" width="400" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/e7b7947e-f086-49d3-a498-c4f462bdb463">
+
 
 ### 💫 About Me:
 > I’m currently learning Web Development, Java, JS, VB.Net C#, PHP, SQL, C and C++
@@ -16,6 +16,7 @@
 
 > Cute ni meelks
 
+<img align="right" alt="akali" width="400" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/e7b7947e-f086-49d3-a498-c4f462bdb463">
 
 ### 🗂️ My Portfolio:
 <a href="https://milave-kun.netlify.app/">
