@@ -2,11 +2,11 @@
 
 **<h1 align="center">Hi!, I'm Dave</h1>**
 
-<img align="right" alt="akali" width="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
 
 <img width="75" src="https://gifdb.com/images/high/magazine-reading-cartoon-cat-7j88oyjtxsllbkx6.gif">
+
+<img align="right" alt="akali" width="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
 ### 💫 About Me:
 > I’m currently learning Web Development, Java, JS, VB.Net C#, PHP, SQL, C and C++
