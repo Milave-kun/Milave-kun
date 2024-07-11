@@ -35,7 +35,8 @@
 
 ### 🗂️ My Portfolio:
 <a href="https://milave-kun.netlify.app/">
-    My Portfolio</a>
+  <img alt="My Portfolio" title="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-87CEEB?style=for-the-badge&logo=briefcase&logoColor=white"/>
+</a>
 
 ### 🏆 Certifications:
 | **Certification Provider** |         **Certification Name**              |
