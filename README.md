@@ -2,6 +2,7 @@
 
 **<h1 align="center">Hi!, I'm Dave</h1>**
 
+<img align="right" alt="akali" width="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
 
@@ -17,8 +18,6 @@
 ### 🗂️ My Portfolio:
 <a href="https://milave-kun.netlify.app/">
     My Portfolio</a>
-
-<img align="right" alt="akali" width="300" top="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
 ### 🏆 Certifications:
 | **Certification Provider** | Certification Name                           |
