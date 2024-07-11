@@ -11,7 +11,8 @@
 <p align="center">
   <a href="https://discord.gg/gGwM9Uq9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/@milave-kun"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://github.com/Milave-kun?tab=repositories&sort=stargazers">
+  <a href=""https://instagram.com/milave_kun"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/Milave-kun?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Milave-kun?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/Milave-kun"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Milave-kun?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
@@ -47,13 +48,6 @@
 | **Coursera**               | [Designing a Low Fidelity Prototype in Figma](https://coursera.org/verify/5DXYB7H42M9T) |
 | **Datacamp**               | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/644c8fbb52c0a1ce2e443419485cae92fa079a15) <br> [Introduction to SQL Server](https://www.datacamp.com/completed/statement-of-accomplishment/course/1b225362a40c331347d8f541c7074269ed3f0f74) |
 | **freeCodeCamp**           | [Responsive Web Design](https://freecodecamp.org/certification/Milave-kun/responsive-web-design) <br> [JavaScript Algorithms and Data Structures (Beta)](https://freecodecamp.org/certification/Milave-kun/javascript-algorithms-and-data-structures-v8) <br> [Front End Development Libraries](https://freecodecamp.org/certification/Milave-kun/front-end-development-libraries) |
-
-### 🌐 Socials:
-<p align="left">
-
-<a href="https://instagram.com/milave_kun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/@milave-kun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 
 ### 💻 Languages & Tools:
 | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> |
