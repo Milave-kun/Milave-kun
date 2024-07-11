@@ -11,7 +11,7 @@
 
 ### 💫 About Me:
 > I’m currently learning Web Development, Java, JS, VB.Net C#, PHP, SQL, C and C++
-<img align="right" alt="akali" width="400" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/e7b7947e-f086-49d3-a498-c4f462bdb463">
+<img align="right" alt="akali" width="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/e7b7947e-f086-49d3-a498-c4f462bdb463">
 
 > Fun fact: my first line of code wasn't "Hello world!"
 
