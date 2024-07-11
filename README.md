@@ -7,8 +7,6 @@
 
 <img width="75" src="https://gifdb.com/images/high/magazine-reading-cartoon-cat-7j88oyjtxsllbkx6.gif">
 
-
-
 ### 💫 About Me:
 > I’m currently learning Web Development, Java, JS, VB.Net C#, PHP, SQL, C and C++
 
