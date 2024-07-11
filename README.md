@@ -14,9 +14,10 @@
 
 > Fun fact: my first line of code wasn't "Hello world!"
 
+<img align="right" alt="akali" width="400" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/e7b7947e-f086-49d3-a498-c4f462bdb463">
+
 > Cute ni meelks
 
-<img align="right" alt="akali" width="400" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/e7b7947e-f086-49d3-a498-c4f462bdb463">
 
 ### 🗂️ My Portfolio:
 <a href="https://milave-kun.netlify.app/">
