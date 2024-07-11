@@ -1,6 +1,16 @@
 <a href="https://www.github.com/Milave-kun"><img alt="coding" width="100%" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/71563a26-80e7-42b2-98ca-33397ac521cb"></a>
 
-**<h1 align="center">Hi!, I'm Dave</h1>**
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=1000&color=4274F7&background=FFC1C100&center=true&vCenter=true&random=false&width=435&lines=Hi!%2C+I'm+Dave;meelks%3C3" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/gGwM9Uq9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@milave-kun"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Milave-kun?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Milave-kun?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/Milave-kun"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Milave-kun?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
 
