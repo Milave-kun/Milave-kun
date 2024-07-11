@@ -16,19 +16,13 @@
   <a href="https://github.com/Milave-kun"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Milave-kun?color=87CEEB&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-
 <p align="center">
 <img width="75" src="https://gifdb.com/images/high/magazine-reading-cartoon-cat-7j88oyjtxsllbkx6.gif">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=0e75b6&style=flat" alt="milave-kun" /> </p>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=87CEEB&style=flat" alt="milave-kun" />
 </p>
-
 
 <img align="right" alt="akali" width="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
