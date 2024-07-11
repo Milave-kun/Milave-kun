@@ -16,7 +16,7 @@
 
 > Cute ni meelks
 
-<img align="right" alt="akali" width="300" height="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
+<img align="right" alt="akali" width="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
 ### 🗂️ My Portfolio:
 <a href="https://milave-kun.netlify.app/">
