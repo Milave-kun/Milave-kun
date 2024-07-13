@@ -20,9 +20,9 @@
 <img width="75" src="https://gifdb.com/images/high/magazine-reading-cartoon-cat-7j88oyjtxsllbkx6.gif">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=milave-kun&label=Profile%20views&color=87CEEB&style=flat" alt="milave-kun" />
-</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Milave-kun&style=for-the-badge&color=blue" alt=""/>
+</div>
 
 <img align="right" alt="akali" width="300" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
@@ -64,3 +64,7 @@
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
