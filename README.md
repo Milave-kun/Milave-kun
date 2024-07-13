@@ -97,6 +97,7 @@
 <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000"/></a>
 <a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000"/></a>
 <a href="https://nodejs.org/"><img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000000"/></a>
+<a href="https://www.apachefriends.org/index.html"><img alt="XAMPP" title="XAMPP" src="https://img.shields.io/badge/-XAMPP-FC5C5C?style=for-the-badge&logo=xampp&logoColor=FFFFFF&labelColor=000000"/></a>
 
 <!-- Frameworks & Libraries -->
 <h3>Frameworks & Libraries</h3>
