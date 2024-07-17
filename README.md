@@ -34,8 +34,6 @@
 
 - Fun fact: my first line of code wasn't "Hello world!"
 
-- Cute ni meelks
-
 <br>
 
 ## 🗂️ My Portfolio:
