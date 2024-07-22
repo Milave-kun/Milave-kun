@@ -77,6 +77,7 @@
 
 <a href="https://www.figma.com/"><img alt="Figma" title="Figma" src="https://img.shields.io/badge/-Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000"/></a>
 <a href="https://www.lucidchart.com/"><img alt="Lucidchart" title="Lucidchart" src="https://img.shields.io/badge/-Lucidchart-007AC1?style=for-the-badge&logo=lucidchart&logoColor=007AC1&labelColor=000000"/></a>
+<a href="https://dbdiagram.io/"><img alt="dbdiagram.io" title="dbdiagram.io" src="https://img.shields.io/badge/-dbdiagram.io-0288D1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAyCAYAAAA07bJaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHdSURBVHgB7ZgJTsNAEEXB0AR6AVWASlABVgAmoAVeAFUgFSoAlEgVUAOmBBqAVWASogVmJL78ZnL2v2ZndjE3OkU/fGbNzM7JkyYoFCxYsWKFChUuXLj2pWS89xX8zR9AEtwFds9lhq8i6cRYoNN4izQG6/h8+HJIZhFnZSlLaD4EKmAyWm6GJAIgUuL8DxM9gD5Z+R5cDvcIagH+IcGNEkvhx0GIMBJZGaHA9zO3gf4GhFBmKsS/R07isC2DPIViS+kXoBKT3GUjA0jQDC0wSUIfq9ML+HhX3ku2HdLOd68BGnmjUV3uJejH5+TS57H0L66gpNfF4eS2fnvQHyohrEY2nT7hH42mfddPqE+ltO7ziCmwtHSa2gV6QapZ4jxLMogLTVP7Md0nkWAwGnEO6kWoOpNRFNFYk9NQphGuYVo5sNDpnlZkWeOsbrdq/NprSPG0rAxYlpkV2RxLwoaZGZmvYrIBQtWLFiRIlWLFiwYkWLFiwoUIn9ffHez8y5ItyAZ2UAAAAAElFTkSuQmCC&logoColor=0288D1&labelColor=000000"/></a>
 
 <!-- Database Management System -->
 <h3>Database Management System</h3>
