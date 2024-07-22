@@ -34,7 +34,9 @@ On my epic quest as a BSIT student, I'm on a continuous journey of leveling up a
 
 I also dive into online courses, constantly seeking new knowledge and earning certificates to mark my progress. These side quests help me stay on the cutting edge and expand my skill set beyond the usual realms.
 
-My journey is fueled by curiosity and a drive to explore new technologies and take on diverse projects. Check out my stats below and explore the collection of repositories I've crafted along the way. Who knows? Maybe our paths will cross, and we’ll team up for an epic collaboration.
+Alongside me in this adventure is my duo partner, Milave-chan. Together, we explore new technologies, tackle diverse projects, and continually push the boundaries of what we can achieve.
+
+Check out my stats below and explore the collection of repositories I've crafted along the way. Who knows? Maybe our paths will cross, and we’ll team up for an epic collaboration.
 
 <br>
 
