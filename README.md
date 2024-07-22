@@ -84,6 +84,7 @@
 > These systems are used to manage and organize databases, allowing for efficient data storage, retrieval, and manipulation.
 
 <a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000000"/></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=000000"/></a>
 
 <!-- Development Tools -->
 <h3>Development Tools</h3>
