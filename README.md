@@ -30,9 +30,11 @@
 
 <img align="right" alt="akali" width="200" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
-- I’m currently learning Web Development, Java, JS, VB.Net C#, PHP, SQL, C and C++
+On my epic quest as a BSIT student, I'm on a continuous journey of leveling up and mastering the world of technology. My adventures take me through various programming languages and tools, including Web Development, Java, JavaScript, VB.Net, C#, PHP, SQL, C, C++, and more. Every day is a new challenge, and I'm always eager to tackle it and gain more XP.
 
-- Fun fact: my first line of code wasn't "Hello world!"
+I also dive into online courses, constantly seeking new knowledge and earning certificates to mark my progress. These side quests help me stay on the cutting edge and expand my skill set beyond the usual realms.
+
+My journey is fueled by curiosity and a drive to explore new technologies and take on diverse projects. Check out my stats below and explore the collection of repositories I've crafted along the way. Who knows? Maybe our paths will cross, and we’ll team up for an epic collaboration.
 
 <br>
 
