@@ -174,8 +174,12 @@ Check out my stats below and explore the collection of repositories I've crafted
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Milave-kun/30-nites-of-code)  
   ![@Milave-kun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Milave-kun)
-
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Milave-kun/30-nites-of-code)  
+  ![@Milave-kun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Milave-kun)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Milave-kun/30-nites-of-code)  
+  ![@Milave-kun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Milave-kun)
 
 
 
