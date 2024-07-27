@@ -174,9 +174,6 @@ Check out my stats below and explore the collection of repositories I've crafted
 [![Check out Milave-kun's profile on stardev.io](https://stardev.io/developers/Milave-kun/badge/languages/country.svg)](https://stardev.io/developers/Milave-kun)
 [![Check out Milave-kun's profile on stardev.io](https://stardev.io/developers/Milave-kun/badge/languages/locality.svg)](https://stardev.io/developers/Milave-kun)
 
-[Check out my progress!](https://www.codedex.io/@Milave-kun/30-nites-of-code) ![@Milave-kun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Milave-kun) [Check out my progress!](https://www.codedex.io/@Milave-kun/30-nites-of-code) ![@Milave-kun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Milave-kun) [Check out my progress!](https://www.codedex.io/@Milave-kun/30-nites-of-code) ![@Milave-kun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Milave-kun)
-
-
 
 
 
