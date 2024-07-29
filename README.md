@@ -170,7 +170,7 @@ Check out my stats below and explore the collection of repositories I've crafted
  <img width="1000" src="assets/github-user-contribution.svg" alt="snake"/>
 </p>
 
-[![Check out Milave-kun's profile on stardev.io](https://stardev.io/developers/Milave-kun/badge/languages/global.svg)](https://stardev.io/developers/Milave-kun)
+
 [![Check out Milave-kun's profile on stardev.io](https://stardev.io/developers/Milave-kun/badge/languages/country.svg)](https://stardev.io/developers/Milave-kun)
 [![Check out Milave-kun's profile on stardev.io](https://stardev.io/developers/Milave-kun/badge/languages/locality.svg)](https://stardev.io/developers/Milave-kun)
 
