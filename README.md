@@ -171,7 +171,6 @@ Check out my stats below and explore the collection of repositories I've crafted
 </p>
 
 
-[![Check out Milave-kun's profile on stardev.io](https://stardev.io/developers/Milave-kun/badge/languages/country.svg)](https://stardev.io/developers/Milave-kun)
 
 
 
