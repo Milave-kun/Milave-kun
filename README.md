@@ -36,14 +36,6 @@
 
 <img align="right" alt="akali" width="200" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/56112fd8-d91f-41e7-a624-26f85dc3e906">
 
-On my epic quest as a BSIT student, I'm on a continuous journey of leveling up and mastering the world of technology. My adventures take me through various programming languages and tools, including Web Development, Java, JavaScript, VB.Net, C#, PHP, SQL, C, C++, and more. Every day is a new challenge, and I'm always eager to tackle it and gain more XP.
-
-I also dive into online courses, constantly seeking new knowledge and earning certificates to mark my progress. These side quests help me stay on the cutting edge and expand my skill set beyond the usual realms.
-
-Alongside me in this adventure is my duo partner, Milave-chan. Together, we explore new technologies, tackle diverse projects, and continually push the boundaries of what we can achieve.
-
-Check out my stats below and explore the collection of repositories I've crafted along the way. Who knows? Maybe our paths will cross, and we’ll team up for an epic collaboration.
-
 <br>
 
 ## 🗂️ My Portfolio:
