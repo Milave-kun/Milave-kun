@@ -1,6 +1,6 @@
 <a href="https://www.github.com/Milave-kun"><img alt="coding" width="100%" src="https://github.com/Milave-kun/Milave-kun/assets/125982535/71563a26-80e7-42b2-98ca-33397ac521cb"></a>
 
-<h1 align="center">Hi!, I'm <a href="https://github.com/Milave-kun">Dave</a></h1>
+<h1 align="center">Hi!, I'm <a href="https://github.com/Milavekun">Dave</a></h1>
 
 <h3 align="center">
 <a href="https://git.io/typing-svg">
